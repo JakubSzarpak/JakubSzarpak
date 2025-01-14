@@ -42,7 +42,7 @@
 <p>🎯 Prepare for Terraform Associate (003)</p>
 <p>🎯 Prepare for CompTia Linux+/Sec+</p>
 <hr>
-<p>🛠 Set up my HPE Server to improve my Docker/Gunicorn/Zabbix skills</p>
+<p>🛠 Set up my HPE Server to improve Docker/Gunicorn/Zabbix skills</p>
 </p>
 <br>
 
