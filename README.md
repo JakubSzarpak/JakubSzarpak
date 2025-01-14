@@ -12,6 +12,8 @@
 <p>MS-900 Microsoft 365 Fundamentals</p>
 <p>SLE201 SUSE Linux Enterprise Server Administration</p>
 <p>CCNAv7: Switching, Routing, and Wireless Essentials + Introduction to Networks</p>
+<p>INF.02 Qualification: Administering hardware, operating systems, and troubleshooting IT issues</p>
+<p>Cisco Networking Academy Introduction to Cybersecurity</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
