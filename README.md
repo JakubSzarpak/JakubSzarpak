@@ -15,7 +15,10 @@
 <p> 🖥 <strong>INF.02</strong> Qualification: Administering hardware, operating systems, and troubleshooting IT issues</p>
 <p> 🔐 <strong>Cisco</strong> Networking Academy Introduction to Cybersecurity</p>
 
-
+<h3 align="left">Current roadmap:</h3>
+<p>Prepare for AWS Certified Solutions Architect - Associate/Professional</p>
+<p>Prepare for Terraform Associate (003)</p>
+<p>Prepare for CompTia Linux+/Sec+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
