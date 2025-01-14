@@ -36,3 +36,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 8px;"/>
 </p>
 
+<h3 align="left">Contact me here:</h3>
+<p align="left">
+  <p><strong>For Intern/Collaborations</strong></p>
+  <p><strong>E-mail</strong> : szarpak.jakub@icloud.com</p>
+</p>
+
