@@ -15,11 +15,6 @@
 <p> 🖥 <strong>INF.02</strong> Qualification: Administering hardware, operating systems, and troubleshooting IT issues</p>
 <p> 🔐 <strong>Cisco</strong> Networking Academy Introduction to Cybersecurity</p>
 
-<h3 align="left">Current roadmap:</h3>
-<p>Prepare for AWS Certified Solutions Architect - Associate/Professional</p>
-<p>Prepare for Terraform Associate (003)</p>
-<p>Prepare for CompTia Linux+/Sec+</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,6 +32,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin-right: 8px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="margin-right: 8px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 8px;"/>
+</p>
+
+<h3 align="left">Current roadmap:</h3>
+<p align="left">
+<p>🎯 Prepare for AWS Certified Solutions Architect - Associate/Professional </p>
+<p>🎯 Prepare for Terraform Associate (003)</p>
+<p>🎯 Prepare for CompTia Linux+/Sec+</p>
+<br>
+
 </p>
 
 <h3 align="left">Contact me here:</h3>
