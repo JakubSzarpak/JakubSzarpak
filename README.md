@@ -7,6 +7,12 @@
 <!--
 **JakubSzarpak/JakubSzarpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h3 align="left">Certs:</h3>
+<p>AZ-900 Microsoft Azure Fundamentals</p>
+<p>MS-900 Microsoft 365 Fundamentals</p>
+<p>SLE201 SUSE Linux Enterprise Server Administration</p>
+<p>CCNAv7: Switching, Routing, and Wireless Essentials + Introduction to Networks</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
