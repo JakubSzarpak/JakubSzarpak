@@ -41,7 +41,7 @@
 <p>🎯 Prepare for AWS Certified Solutions Architect - Associate/Professional </p>
 <p>🎯 Prepare for Terraform Associate (003)</p>
 <p>🎯 Prepare for CompTia Linux+/Sec+</p>
-<hr style="height:2px;">
+<hr>
 <p>🛠 Set up my HPE Server to improve my Docker/Gunicorn/Zabbix skills</p>
 </p>
 <br>
