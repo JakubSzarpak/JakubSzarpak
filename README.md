@@ -15,7 +15,7 @@
 <p> 🖥 <strong>INF.02</strong> Qualification: Administering hardware, operating systems, and troubleshooting IT issues</p>
 <p> 🔐 <strong>Cisco</strong> Networking Academy Introduction to Cybersecurity</p>
 
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin-right: 8px;"/>
