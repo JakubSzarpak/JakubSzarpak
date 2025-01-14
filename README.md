@@ -38,7 +38,7 @@
 
 <h3 align="left">Contact me here:</h3>
 <p align="left">
-  <p><strong>For Intern/Collaborations</strong></p>
+  <p><strong>For Intern/Collaboration purposes</strong></p>
   <p><strong>E-mail</strong> : szarpak.jakub@icloud.com</p>
 </p>
 
