@@ -12,7 +12,7 @@
 <p> ☁️ <strong>MS-900</strong> Microsoft 365 Fundamentals</p>
 <p> 🐧 <strong>SLE201</strong> SUSE Linux Enterprise Server Administration</p>
 <p> 📶 <strong>CCNAv7</strong>: Switching, Routing, and Wireless Essentials + Introduction to Networks</p>
-<p> 🖥 INF.02 Qualification: Administering hardware, operating systems, and troubleshooting IT issues</p>
+<p> 🖥 <strong>INF.02</strong> Qualification: Administering hardware, operating systems, and troubleshooting IT issues</p>
 <p> 🔐 <strong>Cisco</strong> Networking Academy Introduction to Cybersecurity</p>
 
 
