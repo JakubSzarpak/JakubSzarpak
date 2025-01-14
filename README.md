@@ -34,6 +34,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 8px;"/>
 </p>
 
+<br>
+
 <h3 align="left">Current roadmap:</h3>
 <p align="left">
 <p>🎯 Prepare for AWS Certified Solutions Architect - Associate/Professional </p>
@@ -42,6 +44,7 @@
 <br>
 
 </p>
+<br>
 
 <h3 align="left">Contact me here:</h3>
 <p align="left">
