@@ -2,7 +2,7 @@
   <img src="banner (1).png" alt="Banner" style="width: 100%; height: auto;"/>
 </div>
 
-## Hi there 👋
+## 18yo student seeking for internship opportunities 👋
 
 <!--
 **JakubSzarpak/JakubSzarpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
