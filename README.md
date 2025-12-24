@@ -2,7 +2,8 @@
   <img src="banner.png" alt="Banner" style="width: 100%; height: auto;"/>
 </div>
 
-## 18yo student seeking internship opportunities 👋
+## Co-founder & Solutions Architect @ Rheoshift sp. z o. o.
+## Open to selective B2B engineering engagements
 
 <!--
 **JakubSzarpak/JakubSzarpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
