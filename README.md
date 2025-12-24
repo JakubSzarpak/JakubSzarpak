@@ -8,6 +8,10 @@
 
 ---
 
+## About Me
+I co-run a small engineering company focused on **building and maintaining secure, scalable web and hybrid infrastructure**. My work spans architecture, implementation, and operations, with attention to **business needs and delivery quality**.
+
+---
 
 
 
