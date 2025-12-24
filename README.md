@@ -1,5 +1,5 @@
 <div style="width: 100%; text-align: center; background-color: #4CAF50; padding: 20px 0;">
-  <img src="banner (1).png" alt="Banner" style="width: 100%; height: auto;"/>
+  <img src="readme_banner_personal.png" alt="Banner" style="width: 100%; height: auto;"/>
 </div>
 
 ## 18yo student seeking internship opportunities 👋
